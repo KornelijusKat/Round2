@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6y3HIgiNoX4YpnUKx/OfOMRRhYHgqIt3Fvsg1oyeRVn6fgr4OLdoFCvSepQkX0qr8EYbRQ54V8uo1G3ctAsLcg==",
+  "dgSpecHash": "vLC/jhvcBx2KkBtdMLu94T2J0ln2uqZj3gIp9LpepHtszQUBOupx+NWCC5D5uLHfNcyxfD5w3WlNb7KfhV1K3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\TestATM\\TestATM.csproj",
+  "projectFilePath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\TestATM\\TestATM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kornelijus\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Kornelijus\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

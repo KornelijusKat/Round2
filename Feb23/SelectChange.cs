@@ -15,7 +15,7 @@ namespace Feb23
             Bunk.ReadFile(CardList);
             var linechange = CardList.SingleOrDefault(X => X.CardDetail == User.CardDetail);
             linechange.Money = User.Money;
-            File.WriteAllLines(@"C:\Users\Kornelijus\Desktop\BankStuff.CSV.txt", CardList.Select(X => X.ToString()));
+            File.WriteAllLines(@"C:\Users\Kornelijus\Desktop\RepoLand\Round2\Feb23\BankStuff.CSV.txt", CardList.Select(X => X.ToString()));
         }
     }
 }

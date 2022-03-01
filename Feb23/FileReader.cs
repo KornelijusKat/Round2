@@ -10,7 +10,7 @@ namespace Feb23
         public void ReadFile(List<BankAcc> Users) 
         {
             System.IO.StreamReader file =
-              new System.IO.StreamReader(@"C:\Users\Kornelijus\Desktop\BankStuff.CSV.txt");
+              new System.IO.StreamReader(@"C:\Users\Kornelijus\Desktop\RepoLand\Round2\Feb23\BankStuff.CSV.txt");
             string line;
             while ((line = file.ReadLine()) != null)
             {

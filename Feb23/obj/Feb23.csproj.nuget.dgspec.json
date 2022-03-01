@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj": {}
+    "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj": {
+    "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj",
+        "projectUniqueName": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj",
         "projectName": "Feb23",
-        "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj",
+        "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj",
         "packagesPath": "C:\\Users\\Kornelijus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\obj\\",
+        "outputPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kornelijus\\AppData\\Roaming\\NuGet\\NuGet.Config",

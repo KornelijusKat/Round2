@@ -5938,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\TestATM\\TestATM.csproj",
+      "projectUniqueName": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\TestATM\\TestATM.csproj",
       "projectName": "TestATM",
-      "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\TestATM\\TestATM.csproj",
+      "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\TestATM\\TestATM.csproj",
       "packagesPath": "C:\\Users\\Kornelijus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\TestATM\\obj\\",
+      "outputPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\TestATM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kornelijus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5959,8 +5959,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj": {
-              "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\AssingmentATM\\Feb23\\Feb23.csproj"
+            "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj": {
+              "projectPath": "C:\\Users\\Kornelijus\\Desktop\\RepoLand\\Round2\\Feb23\\Feb23.csproj"
             }
           }
         }
