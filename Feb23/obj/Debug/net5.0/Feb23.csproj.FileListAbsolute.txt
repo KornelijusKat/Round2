@@ -1,0 +1,16 @@
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.AssemblyInfo.cs
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.exe
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.deps.json
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.runtimeconfig.json
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.runtimeconfig.dev.json
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.dll
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\ref\Feb23.dll
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\bin\Debug\net5.0\Feb23.pdb
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.dll
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\ref\Feb23.dll
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.pdb
+C:\Users\Kornelijus\source\repos\Feb23\Feb23\obj\Debug\net5.0\Feb23.genruntimeconfig.cache
